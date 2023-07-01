@@ -1,7 +1,8 @@
 
 
 - 👋 Hi, I’m @belligerentbeagle or, contemplativecorgi on Telegram
-- 👀 I’m interested in Web3, Blockchain, AI, FinTech, Algorithms, Robotics.
+- 👀 I’m interested in Web3, FinTech, Robotics and Psychology.
+- 💪 Enjoys Football, Jamming (Piano/Vocal/Guitar), Creating and Reading
 - 💞️ I’m looking to collaborate on anything! Open to ideas:)
 - 📫 How to reach me +65 91234691 or ethanweibiz@gmail.com
 
