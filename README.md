@@ -8,7 +8,7 @@
 
 ![Resume 2024[(https://ethanwei.me/files/EthanWeiResume.pdf)
 
-![LeetCode Stats](https://https://leetcard.jacoblin.cool/belligerentbeagle?theme=light&font=IBM%20Plex%20Monoleetcard.jacoblin.cool/belligerentbeagle?theme=light&font=Crimson%20Text)
+![LeetCode Stats](https://leetcard.jacoblin.cool/belligerentbeagle?theme=light&font=Crimson%20Text)
 
 <!---
 belligerentbeagle/belligerentbeagle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
