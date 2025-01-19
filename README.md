@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
 
 Projects I'm actively working on:
 1. [Project QuietQuant](https://github.com/belligerentbeagle/OptionsAutomation-public): [![wakatime](https://wakatime.com/badge/user/018cc5a8-3c44-4f51-a6f0-5021ac41b5e1/project/99679232-7a26-439e-a650-18032d07b387.svg)](https://wakatime.com/badge/user/018cc5a8-3c44-4f51-a6f0-5021ac41b5e1/project/99679232-7a26-439e-a650-18032d07b387)
-1. TRT Finance Platform
+1. TRT Finance Platform: [![wakatime](https://wakatime.com/badge/user/018cc5a8-3c44-4f51-a6f0-5021ac41b5e1/project/f7854c92-64d6-42eb-9de2-b1109c3e0445.svg)](https://wakatime.com/badge/user/018cc5a8-3c44-4f51-a6f0-5021ac41b5e1/project/f7854c92-64d6-42eb-9de2-b1109c3e0445)
 
