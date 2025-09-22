@@ -13,5 +13,5 @@
 Projects I'm actively working on:
 1. [Project QuietQuant](https://github.com/belligerentbeagle/OptionsAutomation-public): [![wakatime](https://wakatime.com/badge/user/018cc5a8-3c44-4f51-a6f0-5021ac41b5e1/project/99679232-7a26-439e-a650-18032d07b387.svg)](https://wakatime.com/badge/user/018cc5a8-3c44-4f51-a6f0-5021ac41b5e1/project/99679232-7a26-439e-a650-18032d07b387)
 1. [IntelliExo @ NVIDIA](https://github.com/NVIDIA/nvaitc-aps-project-demos/tree/main/projects/intelliexo-ai-advisor-panel): [![wakatime](https://wakatime.com/badge/user/018cc5a8-3c44-4f51-a6f0-5021ac41b5e1/project/6d22cd61-4250-4835-aa52-253b7714de14.svg)](https://wakatime.com/badge/user/018cc5a8-3c44-4f51-a6f0-5021ac41b5e1/project/6d22cd61-4250-4835-aa52-253b7714de14)
-1. TRT Finance Platform: [![wakatime](https://wakatime.com/badge/user/018cc5a8-3c44-4f51-a6f0-5021ac41b5e1/project/f7854c92-64d6-42eb-9de2-b1109c3e0445.svg)](https://wakatime.com/badge/user/018cc5a8-3c44-4f51-a6f0-5021ac41b5e1/project/f7854c92-64d6-42eb-9de2-b1109c3e0445)
+1. [TRT Finance Platform](https://github.com/belligerentbeagle/TRT-Finance-Platform-Public): [![wakatime](https://wakatime.com/badge/user/018cc5a8-3c44-4f51-a6f0-5021ac41b5e1/project/f7854c92-64d6-42eb-9de2-b1109c3e0445.svg)](https://wakatime.com/badge/user/018cc5a8-3c44-4f51-a6f0-5021ac41b5e1/project/f7854c92-64d6-42eb-9de2-b1109c3e0445)
 
