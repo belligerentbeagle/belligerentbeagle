@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Ethan or, [@contemplativecorgi](https://t.me/contemplativecorgi) on Telegram
 - 👀 I’m interested in Quantitative Strategies, Technology and Psychology.
 - 💪 Enjoys Football, Brazillian Jiujitsu, Jamming (Piano/Vocal/Guitar), and movie critiquing
-- 💞️ I’m looking to build great ideas with process AND results-obsessed contrarian optimists.
+- 💞️ I’m looking for process AND results-obsessed contrarian optimists to build great ideas with
 - 📫 How to reach me: +65 91234691 or ethanweibiz@gmail.com
 
 [Ethan's Resume 2026 PDF](https://ethanwei.me/files/EthanWeiResume.pdf)
