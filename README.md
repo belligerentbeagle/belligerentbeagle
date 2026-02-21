@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m @belligerentbeagle or, contemplativecorgi on Telegram
+- 👋 Hi, I’m Ethan or, [@contemplativecorgi](https://t.me/contemplativecorgi) on Telegram
 - 👀 I’m interested in Quantitative Strategies, Technology and Psychology.
 - 💪 Enjoys Football, Brazillian Jiujitsu, Jamming (Piano/Vocal/Guitar), and movie critiquing
 - 💞️ I’m looking to build great ideas with process AND results-obsessed contrarian optimists.
